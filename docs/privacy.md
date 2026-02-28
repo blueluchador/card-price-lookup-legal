@@ -169,4 +169,4 @@ Email: **[support@blueluchador.com](mailto:support@blueluchador.com)**
 
 ---
 
-Privacy | [Terms](terms) | [Refunds](refund-policy) | [Acceptable Use](acceptable-use)
+Privacy \| [Terms](terms) \| [Refunds](refund-policy) \| [Acceptable Use](acceptable-use)
