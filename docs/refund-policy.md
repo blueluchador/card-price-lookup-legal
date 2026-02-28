@@ -90,4 +90,4 @@ For billing or refund inquiries:
 
 ---
 
-[Privacy](privacy) | [Terms](terms) | Refunds | [Acceptable Use](acceptable-use)
+[Privacy](privacy) \| [Terms](terms) \| Refunds \| [Acceptable Use](acceptable-use)
