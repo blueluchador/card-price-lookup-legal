@@ -12,6 +12,9 @@ The Extension allows users to manually capture trading card images from content 
 
 We collect only the data necessary to operate the Extension.
 
+### 1.1 Chrome Web Store Compliance
+**Limited Use Disclosure:** Use of information received from Google APIs will adhere to the [Chrome Web Store User Data Policy](https://developers.google.com/chrome/web-store/program-policies#user-data), including the **Limited Use** requirements. We do not sell user data, use it for advertising, or use it to determine creditworthiness.
+
 ---
 
 ## 2. User-Initiated Image Capture
