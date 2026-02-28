@@ -223,3 +223,7 @@ These Terms constitute the entire agreement between you and Blue Luchador LLC re
 
 Blue Luchador LLC
 Support: [support@blueluchador.com](mailto:support@blueluchador.com)
+
+---
+
+[Privacy](privacy) | Terms | [Refunds](refund-policy) | [Acceptable Use](acceptable-use)
