@@ -92,3 +92,7 @@ If you become aware of misuse of the Service, contact:
 ## 5. Updates
 
 We may update this Acceptable Use Policy at any time. Continued use of the Service constitutes acceptance of the updated policy.
+
+---
+
+[Privacy](privacy) | [Terms](terms) | [Refunds](refund-policy) | Acceptable Use
