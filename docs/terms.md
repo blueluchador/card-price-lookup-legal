@@ -226,4 +226,4 @@ Support: [support@blueluchador.com](mailto:support@blueluchador.com)
 
 ---
 
-[Privacy](privacy) | Terms | [Refunds](refund-policy) | [Acceptable Use](acceptable-use)
+[Privacy](privacy) \| Terms \| [Refunds](refund-policy) \| [Acceptable Use](acceptable-use)
