@@ -6,6 +6,8 @@
 
 This Privacy Policy describes how **Card Price Lookup** ("we", "us", or "our") collects, uses, and protects information when you use the Card Price Lookup Chrome Extension ("Extension").
 
+> **Important:** Use of Card Price Lookup is subject to our **[Terms of Service](terms)**. By installing or using the Extension, you agree to those Terms.
+
 The Extension allows users to manually capture trading card images from content visible in their browser and retrieve market comparison data ("comps").
 
 We collect only the data necessary to operate the Extension.
