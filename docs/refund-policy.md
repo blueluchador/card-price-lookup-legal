@@ -87,3 +87,7 @@ If you downgrade your plan, the change may take effect at the next billing cycle
 For billing or refund inquiries:
 
 [support@blueluchador.com](mailto:support@blueluchador.com)
+
+---
+
+[Privacy](privacy) | [Terms](terms) | Refunds | [Acceptable Use](acceptable-use)
