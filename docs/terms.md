@@ -1,0 +1,225 @@
+# Terms of Service
+
+**Last Updated:** February 28, 2026
+
+These Terms of Service ("Terms") govern your access to and use of the Card Price Lookup Chrome Extension and related services (collectively, the "Service"), operated by **Blue Luchador LLC** ("Company," "we," "us," or "our").
+
+By installing, accessing, or using the Service, you agree to be bound by these Terms.
+
+If you do not agree, do not use the Service.
+
+---
+
+## 1. Ownership and Intellectual Property
+
+The Service and all associated technology, content, and functionality are the exclusive property of Blue Luchador LLC.
+
+This includes, without limitation:
+
+* Source code and object code
+* Backend systems and APIs
+* Matching algorithms and scoring methodologies
+* Data normalization and enrichment processes
+* Comp aggregation logic
+* Trade secrets and proprietary workflows
+* User interface and experience design
+* Documentation, branding, and trademarks
+
+All intellectual property rights are reserved. No rights are granted except those expressly provided in these Terms.
+
+---
+
+## 2. Limited License
+
+Subject to these Terms, Company grants you a limited, non-exclusive, non-transferable, revocable license to use the Service for personal or internal business use only.
+
+This license does not include any right to sublicense, distribute, resell, lease, assign, or otherwise commercialize the Service or its outputs.
+
+---
+
+## 3. Strict Prohibited Conduct
+
+You agree not to:
+
+* Reverse engineer, decompile, disassemble, or attempt to derive source code
+* Attempt to extract algorithms, models, prompts, or scoring systems
+* Access or call backend APIs outside the authorized Extension
+* Circumvent subscription limits or usage controls
+* Use automation, bots, scripts, or scraping tools
+* Benchmark the Service for competitive purposes
+* Use the Service to evaluate or replicate internal performance
+* Extract output systematically to build databases
+* Mirror or replicate the Service
+* Use output to train machine learning systems
+* Develop, enhance, or operate a competing product using the Service or its output
+* Conduct penetration testing without written authorization
+* Interfere with or disrupt Service infrastructure
+
+Any violation results in immediate termination of access.
+
+---
+
+## 4. Trade Secrets and Confidential Methods
+
+The Service incorporates confidential and proprietary trade secrets.
+
+You agree not to:
+
+* Reconstruct proprietary workflows
+* Infer internal logic through systematic testing
+* Analyze output to reverse engineer scoring systems
+* Disclose proprietary insights obtained through use
+
+Unauthorized use may constitute trade secret misappropriation under applicable law.
+
+---
+
+## 5. Output Restrictions
+
+Comps, data, and results provided by the Service are for informational purposes only.
+
+You may use output for personal evaluation.
+
+You may not:
+
+* Redistribute output at scale
+* Create derivative databases
+* Publish bulk data
+* Resell or sublicense output
+* Use output for commercial aggregation
+
+Company reserves the right to restrict or terminate accounts engaging in misuse.
+
+---
+
+## 6. Subscription Terms
+
+Certain features require payment.
+
+By subscribing, you agree to:
+
+* Provide accurate billing information
+* Pay all fees
+* Accept automatic renewal unless canceled
+
+Refunds are discretionary unless required by law.
+
+We may suspend accounts for:
+
+* Non-payment
+* Chargebacks
+* Abuse or excessive automated activity
+
+---
+
+## 7. No Affiliation
+
+Card Price Lookup and Blue Luchador LLC are not affiliated with or endorsed by any marketplace, livestream platform, grading company, or manufacturer.
+
+Third-party trademarks belong to their respective owners.
+
+---
+
+## 8. Disclaimer of Warranties
+
+The Service is provided "as is" and "as available."
+
+Company disclaims all warranties, express or implied, including:
+
+* Accuracy of identification
+* Accuracy of comps
+* Fitness for a particular purpose
+* Non-infringement
+* Continuous availability
+
+You assume all risk associated with use.
+
+---
+
+## 9. Limitation of Liability
+
+To the maximum extent permitted by law:
+
+Company shall not be liable for:
+
+* Financial decisions based on comps
+* Lost profits
+* Business interruption
+* Data loss
+* Indirect, incidental, special, or consequential damages
+
+Total liability shall not exceed the total fees paid by you in the twelve months preceding the claim.
+
+---
+
+## 10. Indemnification
+
+You agree to indemnify and hold harmless Blue Luchador LLC from any claims, damages, liabilities, costs, or expenses arising from:
+
+* Your misuse of the Service
+* Violation of these Terms
+* Violation of third-party platform terms
+* Unauthorized data extraction
+
+---
+
+## 11. Injunctive Relief
+
+You acknowledge that unauthorized use of the Service may cause irreparable harm.
+
+Company is entitled to seek injunctive or equitable relief without posting bond in addition to other remedies available at law.
+
+---
+
+## 12. Arbitration and Class Action Waiver
+
+Any dispute arising out of or relating to these Terms shall be resolved by binding arbitration in the State of Colorado.
+
+You waive the right to participate in class actions, class arbitrations, or representative proceedings.
+
+---
+
+## 13. Governing Law
+
+These Terms are governed by the laws of the State of Colorado, without regard to conflict of law principles.
+
+---
+
+## 14. Termination
+
+Company may suspend or terminate access at any time for violation of these Terms.
+
+Upon termination, all licenses granted under these Terms immediately terminate.
+
+---
+
+## 15. Assignment
+
+You may not assign these Terms without prior written consent.
+
+Company may assign its rights without restriction.
+
+---
+
+## 16. Force Majeure
+
+Company shall not be liable for delays or failure to perform due to events beyond its reasonable control.
+
+---
+
+## 17. Severability
+
+If any provision of these Terms is found unenforceable, the remaining provisions remain in full effect.
+
+---
+
+## 18. Entire Agreement
+
+These Terms constitute the entire agreement between you and Blue Luchador LLC regarding the Service and supersede all prior agreements.
+
+---
+
+## 19. Contact
+
+Blue Luchador LLC
+Support: [support@blueluchador.com](mailto:support@blueluchador.com)
