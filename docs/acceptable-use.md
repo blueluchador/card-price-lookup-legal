@@ -95,4 +95,4 @@ We may update this Acceptable Use Policy at any time. Continued use of the Servi
 
 ---
 
-[Privacy](privacy) | [Terms](terms) | [Refunds](refund-policy) | Acceptable Use
+[Privacy](privacy) \| [Terms](terms) \| [Refunds](refund-policy) \| Acceptable Use
