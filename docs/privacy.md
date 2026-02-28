@@ -164,3 +164,7 @@ We may update this Privacy Policy periodically. Continued use of the Extension a
 
 Blue Luchador Support
 Email: **[support@blueluchador.com](mailto:support@blueluchador.com)**
+
+---
+
+Privacy | [Terms](terms) | [Refunds](refund-policy) | [Acceptable Use](acceptable-use)
