@@ -7,8 +7,6 @@ If you need assistance with Card Price Lookup, please contact us at:
 
 **support@blueluchador.com**
 
----
-
 ## What to Include in Your Message
 
 To help us respond quickly, please include:
@@ -18,8 +16,6 @@ To help us respond quickly, please include:
 - The date and time the issue occurred
 - Screenshots if applicable
 
----
-
 ## Billing Questions
 
 For billing, subscription, or refund inquiries, please include:
@@ -28,13 +24,9 @@ For billing, subscription, or refund inquiries, please include:
 - The last four digits of the card used (if available)
 - A brief description of the issue
 
----
-
 ## Response Time
 
 We aim to respond within 1–2 business days.
-
----
 
 ## Service Issues
 
@@ -44,8 +36,8 @@ If you believe there is a technical issue affecting scans or comps, please inclu
 - A description of what occurred
 - Any error messages shown
 
----
-
 Thank you for using Card Price Lookup.
+
+---
 
 [Privacy](privacy) \| [Terms](terms) \| [Refunds](refund-policy) \| [Acceptable Use](acceptable-use) \| Support
