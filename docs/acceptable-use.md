@@ -6,15 +6,11 @@ This Acceptable Use Policy ("AUP") governs your use of the Card Price Lookup Chr
 
 This AUP is incorporated into and forms part of the Terms of Service. Violations may result in suspension or termination of access without notice.
 
----
-
 ## 1. Purpose
 
 The Service is intended for legitimate personal or internal business use related to trading card evaluation.
 
 You may not use the Service in a manner that harms, disrupts, exploits, or competes unfairly with the Service.
-
----
 
 ## 2. Prohibited Activities
 
@@ -27,16 +23,12 @@ You may not:
 * Attempt to build datasets from Service output
 * Mirror or replicate Service functionality
 
----
-
 ### 2.2 Competitive Use
 
 * Use the Service to develop, test, benchmark, or improve a competing product
 * Analyze Service output to infer proprietary scoring methods
 * Conduct competitive research using systematic queries
 * Attempt to replicate internal algorithms or workflows
-
----
 
 ### 2.3 API and System Abuse
 
@@ -46,8 +38,6 @@ You may not:
 * Probe or scan infrastructure for vulnerabilities
 * Attempt denial-of-service attacks
 
----
-
 ### 2.4 Data Misuse
 
 * Redistribute comps at scale
@@ -56,16 +46,12 @@ You may not:
 * Create derivative databases from Service results
 * Use output to train machine learning models
 
----
-
 ### 2.5 Subscription Abuse
 
 * Share accounts across multiple users in violation of plan limits
 * Circumvent usage caps
 * Initiate fraudulent chargebacks after service use
 * Manipulate payment systems
-
----
 
 ## 3. Enforcement
 
@@ -79,15 +65,11 @@ We reserve the right to:
 
 No refund will be issued for accounts terminated due to AUP violations.
 
----
-
 ## 4. Reporting Abuse
 
 If you become aware of misuse of the Service, contact:
 
 [support@blueluchador.com](mailto:support@blueluchador.com)
-
----
 
 ## 5. Updates
 
