@@ -8,8 +8,6 @@ By installing, accessing, or using the Service, you agree to be bound by these T
 
 If you do not agree, do not use the Service.
 
----
-
 ## 1. Ownership and Intellectual Property
 
 The Service and all associated technology, content, and functionality are the exclusive property of Blue Luchador LLC.
@@ -27,15 +25,11 @@ This includes, without limitation:
 
 All intellectual property rights are reserved. No rights are granted except those expressly provided in these Terms.
 
----
-
 ## 2. Limited License
 
 Subject to these Terms, Company grants you a limited, non-exclusive, non-transferable, revocable license to use the Service for personal or internal business use only.
 
 This license does not include any right to sublicense, distribute, resell, lease, assign, or otherwise commercialize the Service or its outputs.
-
----
 
 ## 3. Strict Prohibited Conduct
 
@@ -57,8 +51,6 @@ You agree not to:
 
 Any violation results in immediate termination of access.
 
----
-
 ## 4. Trade Secrets and Confidential Methods
 
 The Service incorporates confidential and proprietary trade secrets.
@@ -71,8 +63,6 @@ You agree not to:
 * Disclose proprietary insights obtained through use
 
 Unauthorized use may constitute trade secret misappropriation under applicable law.
-
----
 
 ## 5. Output Restrictions
 
@@ -89,8 +79,6 @@ You may not:
 * Use output for commercial aggregation
 
 Company reserves the right to restrict or terminate accounts engaging in misuse.
-
----
 
 ## 6. Subscription Terms
 
@@ -110,15 +98,11 @@ We may suspend accounts for:
 * Chargebacks
 * Abuse or excessive automated activity
 
----
-
 ## 7. No Affiliation
 
 Card Price Lookup and Blue Luchador LLC are not affiliated with or endorsed by any marketplace, livestream platform, grading company, or manufacturer.
 
 Third-party trademarks belong to their respective owners.
-
----
 
 ## 8. Disclaimer of Warranties
 
@@ -159,8 +143,6 @@ Blue Luchador LLC shall not be liable for any losses, damages, pricing discrepan
 
 Use of the Service is at your own risk.
 
----
-
 ## 9. Limitation of Liability
 
 To the maximum extent permitted by law:
@@ -175,8 +157,6 @@ Company shall not be liable for:
 
 Total liability shall not exceed the total fees paid by you in the twelve months preceding the claim.
 
----
-
 ## 10. Indemnification
 
 You agree to indemnify and hold harmless Blue Luchador LLC from any claims, damages, liabilities, costs, or expenses arising from:
@@ -186,15 +166,11 @@ You agree to indemnify and hold harmless Blue Luchador LLC from any claims, dama
 * Violation of third-party platform terms
 * Unauthorized data extraction
 
----
-
 ## 11. Injunctive Relief
 
 You acknowledge that unauthorized use of the Service may cause irreparable harm.
 
 Company is entitled to seek injunctive or equitable relief without posting bond in addition to other remedies available at law.
-
----
 
 ## 12. Arbitration and Class Action Waiver
 
@@ -202,13 +178,9 @@ Any dispute arising out of or relating to these Terms shall be resolved by bindi
 
 You waive the right to participate in class actions, class arbitrations, or representative proceedings.
 
----
-
 ## 13. Governing Law
 
 These Terms are governed by the laws of the State of Colorado, without regard to conflict of law principles.
-
----
 
 ## 14. Termination
 
@@ -216,33 +188,23 @@ Company may suspend or terminate access at any time for violation of these Terms
 
 Upon termination, all licenses granted under these Terms immediately terminate.
 
----
-
 ## 15. Assignment
 
 You may not assign these Terms without prior written consent.
 
 Company may assign its rights without restriction.
 
----
-
 ## 16. Force Majeure
 
 Company shall not be liable for delays or failure to perform due to events beyond its reasonable control.
-
----
 
 ## 17. Severability
 
 If any provision of these Terms is found unenforceable, the remaining provisions remain in full effect.
 
----
-
 ## 18. Entire Agreement
 
 These Terms constitute the entire agreement between you and Blue Luchador LLC regarding the Service and supersede all prior agreements.
-
----
 
 ## 19. Contact
 
