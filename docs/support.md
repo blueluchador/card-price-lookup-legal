@@ -48,3 +48,4 @@ If you believe there is a technical issue affecting scans or comps, please inclu
 
 Thank you for using Card Price Lookup.
 
+[Privacy](privacy) \| [Terms](terms) \| [Refunds](refund-policy) \| [Acceptable Use](acceptable-use) \| Support
