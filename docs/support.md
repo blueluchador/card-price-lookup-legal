@@ -5,7 +5,7 @@ Card Price Lookup
 
 If you need assistance with Card Price Lookup, please contact us at:
 
-**support@blueluchador.com**
+**[support@blueluchador.com](mailto:support@blueluchador.com)**
 
 ## What to Include in Your Message
 
