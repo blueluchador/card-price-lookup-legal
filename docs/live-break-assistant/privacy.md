@@ -12,7 +12,7 @@ permalink: /live-break-assistant/privacy/
 
 This Privacy Policy describes how **Decoy — Live Break Assistant** ("we", "us", or "our") collects, uses, and protects information when you use the Decoy Chrome Extension ("Extension").
 
-> **Important:** Use of Decoy is subject to our **[Terms of Service](terms)**. By installing or using the Extension, you agree to those Terms.
+> **Important:** Use of Decoy is subject to our **[Terms of Service]({{ '/live-break-assistant/terms/' | relative_url }})**. By installing or using the Extension, you agree to those Terms.
 
 The Extension sits beside supported livestream auction sites and helps collectors follow live card breaks. It captures what is visible in the livestream tab, extracts on-screen auction text, and uses that context to retrieve checklists, values, case hits, odds, and chat answers.
 
@@ -171,4 +171,4 @@ Email: **[support@blueluchador.com](mailto:support@blueluchador.com)**
 
 ---
 
-Privacy \| [Terms](terms) \| [Refunds](refund-policy) \| [Acceptable Use](acceptable-use) \| [Support](support)
+Privacy \| [Terms]({{ '/live-break-assistant/terms/' | relative_url }}) \| [Refunds]({{ '/live-break-assistant/refund-policy/' | relative_url }}) \| [Acceptable Use]({{ '/live-break-assistant/acceptable-use/' | relative_url }}) \| [Support]({{ '/live-break-assistant/support/' | relative_url }})

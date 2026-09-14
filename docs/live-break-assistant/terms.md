@@ -99,7 +99,7 @@ By starting a trial or subscribing, you agree to:
 
 Trials and any free features are offered at our discretion. We may change, limit, or discontinue trials, complimentary usage, or other free offerings at any time. Starting a trial or using a free feature does not create a right to continued free access.
 
-Refunds are discretionary unless required by law. See our [Refund Policy](refund-policy).
+Refunds are discretionary unless required by law. See our [Refund Policy]({{ '/live-break-assistant/refund-policy/' | relative_url }}).
 
 We may suspend accounts for:
 
@@ -224,4 +224,4 @@ Support: [support@blueluchador.com](mailto:support@blueluchador.com)
 
 ---
 
-[Privacy](privacy) \| Terms \| [Refunds](refund-policy) \| [Acceptable Use](acceptable-use) \| [Support](support)
+[Privacy]({{ '/live-break-assistant/privacy/' | relative_url }}) \| Terms \| [Refunds]({{ '/live-break-assistant/refund-policy/' | relative_url }}) \| [Acceptable Use]({{ '/live-break-assistant/acceptable-use/' | relative_url }}) \| [Support]({{ '/live-break-assistant/support/' | relative_url }})

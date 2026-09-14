@@ -46,4 +46,4 @@ Thank you for using Decoy — Live Break Assistant.
 
 ---
 
-[Privacy](privacy) \| [Terms](terms) \| [Refunds](refund-policy) \| [Acceptable Use](acceptable-use) \| Support
+[Privacy]({{ '/live-break-assistant/privacy/' | relative_url }}) \| [Terms]({{ '/live-break-assistant/terms/' | relative_url }}) \| [Refunds]({{ '/live-break-assistant/refund-policy/' | relative_url }}) \| [Acceptable Use]({{ '/live-break-assistant/acceptable-use/' | relative_url }}) \| Support

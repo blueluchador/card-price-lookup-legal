@@ -8,8 +8,8 @@ permalink: /live-break-assistant/
 
 **Decoy — Live Break Assistant** is operated by **Blue Luchador LLC**.
 
-- [Privacy Policy](privacy)
-- [Terms of Service](terms)
-- [Refund Policy](refund-policy)
-- [Acceptable Use](acceptable-use)
-- [Support](support)
+- [Privacy Policy]({{ '/live-break-assistant/privacy/' | relative_url }})
+- [Terms of Service]({{ '/live-break-assistant/terms/' | relative_url }})
+- [Refund Policy]({{ '/live-break-assistant/refund-policy/' | relative_url }})
+- [Acceptable Use]({{ '/live-break-assistant/acceptable-use/' | relative_url }})
+- [Support]({{ '/live-break-assistant/support/' | relative_url }})

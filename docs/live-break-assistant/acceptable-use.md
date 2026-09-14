@@ -83,4 +83,4 @@ We may update this Acceptable Use Policy at any time. Continued use of the Servi
 
 ---
 
-[Privacy](privacy) \| [Terms](terms) \| [Refunds](refund-policy) \| Acceptable Use \| [Support](support)
+[Privacy]({{ '/live-break-assistant/privacy/' | relative_url }}) \| [Terms]({{ '/live-break-assistant/terms/' | relative_url }}) \| [Refunds]({{ '/live-break-assistant/refund-policy/' | relative_url }}) \| Acceptable Use \| [Support]({{ '/live-break-assistant/support/' | relative_url }})

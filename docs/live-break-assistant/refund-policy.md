@@ -89,4 +89,4 @@ For billing or refund inquiries:
 
 ---
 
-[Privacy](privacy) \| [Terms](terms) \| Refunds \| [Acceptable Use](acceptable-use) \| [Support](support)
+[Privacy]({{ '/live-break-assistant/privacy/' | relative_url }}) \| [Terms]({{ '/live-break-assistant/terms/' | relative_url }}) \| Refunds \| [Acceptable Use]({{ '/live-break-assistant/acceptable-use/' | relative_url }}) \| [Support]({{ '/live-break-assistant/support/' | relative_url }})
