@@ -14,7 +14,7 @@ We collect only the data necessary to operate the Extension.
 
 ### 1.1 Chrome Web Store Compliance
 
-**Limited Use Disclosure:** Use of information received from Google APIs will adhere to the [Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/policies), including the **Limited Use** requirements. We do not sell user data, use it for advertising, or use it to determine creditworthiness.
+The Extension follows the [Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/policies). We do not sell user data, use it for advertising, or use it to determine creditworthiness.
 
 ## 2. User-Initiated Image Capture
 
@@ -45,7 +45,7 @@ If you subscribe to a paid plan, we may collect:
 * Subscription plan information  
 * Subscription identifiers associated with our payment processor  
 
-Payment details (such as credit card numbers) are processed by our payment provider and are not stored by us.
+Payment details (such as credit card numbers) are processed by Stripe and are not stored by us.
 
 ### 3.2 Extracted Card Information
 
@@ -98,7 +98,7 @@ We do not sell personal data.
 
 ### 5.1 Payment Processing
 
-Subscription payments are processed by our payment provider. We do not store full payment card details.
+Subscription payments are processed by Stripe. We do not store full payment card details.
 
 ### 5.2 Market Data Provider
 
